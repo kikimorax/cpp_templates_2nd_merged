@@ -6,4 +6,5 @@
 
 * [r00tk1ts](https://github.com/r00tk1ts/cpp-templates-2nd.git) 包含Part II (12-17章)
 
-本仓库将这两个仓库的内容合并在一起，方便阅读
+本仓库将这两个仓库的内容合并在一起，方便阅读。  
+版权属于原作者
